@@ -1,25 +1,25 @@
-# 📊 Unemployment Analysis
+#  Unemployment Analysis
 
-## 📌 Description
+##  Description
 This project analyzes unemployment rate during Covid-19.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - Matplotlib
 
-## 📊 Analysis
+##  Analysis
 - Time-based trend
 - Region-wise comparison
 
-## 📷 Output
+##  Output
 ![alt text](output.png)
 ![alt text](output2.png)
 
-## 📊 Insights   👈 YEH ADD KARNA HAI
+##  Insights   
 - Unemployment increased during Covid-19.
 - Some regions were more affected.
 - After peak, unemployment decreased.
 
-## 🚀 Conclusion
+##  Conclusion
 The project shows impact of Covid on unemployment.
