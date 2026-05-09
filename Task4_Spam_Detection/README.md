@@ -1,25 +1,25 @@
-# 📧 Spam Email Detection
+#  Spam Email Detection
 
-## 📌 Description
+## Description
 This project classifies emails as spam or not spam using machine learning techniques.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - Scikit-learn
 
-## 🤖 Algorithm
+##  Algorithm
 - Multinomial Naive Bayes
 
-## 📊 Result
+##  Result
 - Accuracy: ~98%
 
 ## 📷 Output
 ![Output](output.png)
 
-## 📊 Insights
+##  Insights
 - Spam messages often contain repeated promotional words.
 - Machine learning can effectively detect spam emails.
 
-## 🚀 Conclusion
+##  Conclusion
 The model successfully classifies emails with high accuracy and can be used for spam filtering systems.
